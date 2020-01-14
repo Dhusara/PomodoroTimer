@@ -1,2 +1,2 @@
 # PomodoroTimer
-Standart timer
+Standart timer with ProgressBar.js
